@@ -20,5 +20,6 @@ namespace Renty.Services.DataTransferObects
         public string Owner { get; set; }
 
         public string Renter { get; set; }
+
     }
 }
